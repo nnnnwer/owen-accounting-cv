@@ -20,7 +20,7 @@ export const profile = {
    * about 400×400 px and under 60 KB is ideal) and set the path, e.g.
    * '/images/profile.webp'. Leave '' to show initials instead.
    */
-  photo: 'public/images/profile.webp',
+  photo: '/images/profile.webp',
 
   headline: {
     en: 'Accounting & Financial',
